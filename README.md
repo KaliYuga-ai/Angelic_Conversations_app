@@ -17,7 +17,7 @@ To do this, I used the following technologies:
 
 **How to Use:**
 
-* Enter your [OpenAI API key](https://platform.openai.com/account/api-keys) in the provided field below.
+* Enter your [OpenAI API key](https://platform.openai.com/account/api-keys) in the provided field.
 * Run all cells to activate API key/install dependencies/ launch the Gradio app
 * Click the generated link to open the Gradio app in a new tab. You can run in Colab, too, but the app gets cut off on smaller screens. 
  
